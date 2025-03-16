@@ -7,9 +7,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-/**
- * Base DAO class providing common database functionalities.
- */
+
 public class DAO {
 
     protected Connection con = null;
